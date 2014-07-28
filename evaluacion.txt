@@ -1,0 +1,66 @@
+Practica
+
+- Que permisologia tiene los siguientes archivos
+rwxrwx---770  
+--------- 
+rw-rw---- 660
+r-xr-xr-x 455
+---rw-r-x 441
+--x--x--x 111
+
+
+- Ejecuten la búsqueda con grep buscando cunaguaro y guarde la salida en un archivo llamado
+firefox.txt
+
+
+-Cuanto pesa tu /home/ y cuanto pesa /etc
+
+
+- Se requiere guardar un archivo dentro de la configuración de la memoria del computador dentro
+de un archivo llamado memoria.txt
+      
+                 
+
+-Se requiere guardar toda la configuración de la versión del kernel en un archivo llamado kernel.txt
+
+
+- Como matamos un proceso del computador 
+   respuesta: Kill
+
+- Que hace el respectivo comando $cat toto > toto2
+   resp: se escribe en el archivo toto toto2
+
+- Como puedo visualizar las particiones del disco duro
+  resp:fdisk -l
+
+- Cree una carpeta con tu nombre
+  resp: mkdir luisandro 
+- Dentro de la carpeta, creamos tres archivos de nombre c1 c2 c3
+    resp:touch c1.txt c2.txt c3.txt    
+- Guardamos en el c1 su nombre completo
+      resp:git add c1.txt
+           git commit -a
+           luisandro sequea 
+           ctrl o enter,control x
+           git push
+           usuario
+           passwd 
+           f5   
+- Guardamos el c3 el correo electrónico
+           git add c3.txt
+           git commit -a
+           sequealuis@fundacite-anz.gob.ve
+           ctrl o enter, control x enter
+           git push
+           usuario
+           passwd
+           f5
+- Describa a continuación la función de los siguientes directorios
+
+/bin   directorios donde estan alojados los archivos de sistema
+/home/  es la carpeta donde se alojan los documentos de trabajo
+/media  es la carpeta donde se montan las unidades ,pendrives ,memorias
+/var  
+/	
+/sbin  
+/boot 
